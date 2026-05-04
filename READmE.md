@@ -1,19 +1,2 @@
-## 💫AI/ML Month 1
-
-## 🎯Goal
-
-This repo documents my Month 1 AI/ML foundation work.
-
-Week 1 focus: Python as a reasoning tool.
-
-## Week 1 Checklist
-
-- [Day1] Set up Python environment
-- [Day2] Read and annotate Python code
-- [Day3] Debug broken snippets
-- [Day4] Refactor messy code
-- [Day5] Review AI-generated code
-- [Day6] Build CSV summary tool
-- [Day7] Write Python failure modes
-
-
+# ai-ml-month1
+This document capture the foundation of AI/ML. Generally, whenever we try to learn AI/ML we have a tendancy that we will learned syntex, how to use this tools ...... But here In this repo the idea is completely changed, Here we talked about when code fails like runtime failure, silent failure, bad imports, path error, weak error handling and wrong assumption about our function. We will use ai genarated code but our code will be more readable, easily debugable and avoid failure mode.
